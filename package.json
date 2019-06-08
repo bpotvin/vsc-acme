@@ -1,0 +1,29 @@
+{
+	"name": "acme",
+	"displayName": "acme",
+	"description": "This theme is based on the plan9 acme editing environment",
+	"version": "0.23.5",
+    "preview": false,
+	"publisher": "cfsops",
+    "readme": "README.md",
+    "author": "Bill Potvin",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+    "keywords": [
+        "plan9",
+        "acme"
+    ],
+    "categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "acme",
+				"uiTheme": "vs",
+				"path": "./themes/acme-theme.json"
+			}
+		]
+	}
+}
