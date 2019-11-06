@@ -25,5 +25,9 @@
 				"path": "./themes/acme-theme.json"
 			}
 		]
+	},
+	"repository": {
+		"url": "https://github.com/bpotvin/vsc-acme.git",
+		"type": "git"
 	}
 }

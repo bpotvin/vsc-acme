@@ -8,7 +8,7 @@ release came in 2015. Several off-shoots have been created, bringing more of the
 is even a port to Raspberry Pi.
 
 ## The acme environment
-![The acme environment](./acme-small.jpg)
+![The acme environment](acme-small.jpg)
 
 The acme software, often referred to as an editor, is better characterized as a 'work environment'. You can edit documents and
 code, then open a terminal window to compile/run the code. The colors presented by this theme are the colors defined by acme,

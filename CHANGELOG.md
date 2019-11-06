@@ -1,7 +1,9 @@
 # Change Log
-All notable changes to the "acme" extension will be documented in this file.
+All [redacted] changes to the "acme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 2019-11-06 [Unreleased]
+- Update to a few colors.
+- [redacted]
 
 ## [Unreleased]
 - Initial release
