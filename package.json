@@ -1,33 +1,34 @@
 {
-	"name": "acme",
-	"displayName": "acme",
-	"description": "This theme is based on the plan9 acme editing environment",
-	"version": "0.23.5",
+    "name": "acme",
+    "displayName": "acme",
+    "description": "This theme is based on the plan9 acme editing environment",
+    "version": "0.23.6",
     "preview": false,
-	"publisher": "cfsops",
+    "publisher": "cfsops",
+    "icon": "acme.jpg",
     "readme": "README.md",
     "author": "Bill Potvin",
-	"engines": {
-		"vscode": "^1.0.0"
-	},
+    "engines": {
+        "vscode": "^1.0.0"
+    },
     "keywords": [
         "plan9",
         "acme"
     ],
     "categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "acme",
-				"uiTheme": "vs",
-				"path": "./themes/acme-theme.json"
-			}
-		]
-	},
-	"repository": {
-		"url": "https://github.com/bpotvin/vsc-acme.git",
-		"type": "git"
-	}
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "acme",
+                "uiTheme": "vs",
+                "path": "./themes/acme-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "url": "https://github.com/bpotvin/vsc-acme.git",
+        "type": "git"
+    }
 }
